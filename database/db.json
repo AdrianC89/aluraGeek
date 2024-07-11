@@ -2,39 +2,39 @@
   "productos": [
     {
       "id": "1",
-      "nombre": "PlayStation 4",
+      "nombre": "Muñeco Pikachu",
       "precio": "1900",
       "imagen": "https://www.newwaynet.com.br/wp-content/uploads/2016/12/img-produtos-games-1-500x500.jpg"
     },
     {
       "id": "2",
-      "nombre": "Boneco do Gangar",
-      "precio": "100",
-      "imagen": "https://a-static.mlcdn.com.br/800x560/boneco-gengar-em-vinil-10cm-sunny-pokemon/fingsstoregeek/15939577122/ce15a2e97ad2e344ba2beeb9a08d0c11.jpeg"
+      "nombre": "Muñeco Dragonite",
+      "precio": "150",
+      "imagen": "https://http2.mlstatic.com/D_885473-MLA74652301950_022024-C.jpg"
     },
     {
       "id": "3",
-      "nombre": "Boneco do Lapras",
-      "precio": "100",
-      "imagen": "https://a-static.mlcdn.com.br/800x560/boneco-pokemon-battle-figure-45-lapras-wct-dtc-wct-wicked-cool-toys/bazaargeek/5183/9d8688da235d4028779bb64be3d16407.jpg"
+      "nombre": "Muñeco Lapras",
+      "precio": "150",
+      "imagen": "2wCEAAkGBxMTEhUSEhIVFhUSExUaFRUVFQ8XEg8VFhUWFxYVFRYYHSggGBolGxUVITEhJSkrLi4uFx8zODMsOCgtLisBCgoKDg0OGhAQGy8lICUtLS0tLy0tLS0uLS0tLS0tLS8tLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf"
     },
     {
       "id": "4",
-      "nombre": "Boneco Mega Charizard",
+      "nombre": "Muñeco Charizard",
       "precio": "120",
-      "imagen": "https://tse4.mm.bing.net/th?id=OIP.ueMOrzp8hK7UwwVN1NBmQQHaHa&pid=Api&P=0&h=180"
+      "imagen": "https://m.media-amazon.com/images/I/61nR6Q72bTL._AC_SL1500_.jpg"
     },
     {
       "id": "5",
-      "nombre": "Miniaturas 10 por:",
-      "precio": "30",
-      "imagen": "https://photos.enjoei.com.br/kit-de-144-bonecos-miniatura-lote-pokemon-com-pikachu-incluso-colecao-completa/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8xMTgzNjAzNS8zYmIyMTkzNzEzOGNkZDBlNTM2NmMzNWM2ODcxNTA2ZC5qcGc"
+      "nombre": "Muñeco Mew",
+      "precio": "130",
+      "imagen": "https://m.media-amazon.com/images/I/5197jeo1ZhL.jpg"
     },
     {
       "id": "6",
-      "nombre": "Caneca Pac-Man",
-      "precio": "70",
-      "imagen": "https://d1s5vnzdzzk6v7.cloudfront.net/Custom/Content/Products/11/02/110287_pac-man-5511_m4_638156788266453540.jpg"
+      "nombre": "Muñeco Mr. Mime",
+      "precio": "170",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKM5vn2k4HT_tnRKSXOCCmVqs0oGrhUKeuA&s"
     }
   ]
 }

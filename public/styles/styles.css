@@ -9,9 +9,9 @@
     --fonteTexto: 'IBM Plex Mono', sans-serif;
 
     --cor-de-fundo: #f0f3ef ;
-    --cor-dos-cards: #457b9d;
+    --cor-dos-cards: #c37a35;
     --cor-da-font: #121d2c;
-    --cor-botao: #457b9d;
+    --cor-botao: #e4c70e;
     --cor-botao-2:#c0c9d4;
 
     --font-principal:"Press Start 2P", system-ui;
@@ -249,4 +249,9 @@ button img {
     color: var(--cor-da-font);
     font-size: 1rem;
     font-weight: 400;
+}
+
+.pokeball{
+    width: 3rem;
+    margin: 1rem;
 }

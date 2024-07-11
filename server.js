@@ -1,9 +1,11 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
+const path = require('path');
 
-app.use(cors()); 
+app.use(cors());
 app.use(express.json());
+app.use(express.static(path.join(__dirname, 'public')));
 
 let productos = [];
 
@@ -15,7 +17,8 @@ app.get('/productos', (req, res) => {
 // Ruta para crear producto
 app.post('/productos', (req, res) => {
     const producto = req.body;
-    produtos.push(producto);
+    producto.id = Date.now().toString(); // Asigna un ID único
+    productos.push(producto);
     res.status(201).json(producto);
 });
 
@@ -28,5 +31,5 @@ app.delete('/productos/:id', (req, res) => {
 
 const PORT = 3000;
 app.listen(PORT, () => {
-    console.log(`Servidor rcorriendo en el puerto ${PORT}`);
+    console.log(`Servidor corriendo en el puerto ${PORT}`);
 });
